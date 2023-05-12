@@ -25,7 +25,7 @@ Greetings! My name is Varun Gupta, a dedicated and passionate tech enthusiast wh
 ![](https://github-contributor-stats.vercel.app/api?username=VarunGuptaPy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://myrandom-meme-generator.glitch.me/)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VarunGuptaPy&icon=0&color=0)](https://visitcount.itsvg.in)
